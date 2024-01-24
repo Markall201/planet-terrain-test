@@ -1,3 +1,5 @@
+![Example planet Earth generated from geographical data](earth-terrain-showcase.png)
+
 Many thanks to Sebastian Lague for inspiring this project. I leaned heavily on his code for this.
 
 The idea for this project is to create a planetary model from a heightmap and texture (in this case Earth and respective NASA data).
